@@ -1,12 +1,12 @@
 <h1 align="center"> 
-     💥 ZEROFILES 💥
+     💥 DISKUSI RECORD 💥
 </h1>
  
 
 ## Telegram Bot to store Posts and Documents and it can Access by Special Links.
 
-[Zero](t.me/fuckinzero13)
-[Channel](t.me/xproject13)
+[ADMIN](t.me/shinomiya76)
+[Channel](t.me/membershipvip)
 
 ## Click The Image And Deploy Your Bot
 
