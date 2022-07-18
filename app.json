@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/zerosquad13/zerofiles",
+  "repository": "https://github.com/Dinomerahjahat/zerofiles",
   "logo": "https://telegra.ph/file/8df319c48529c36e7785c.png",
   "env": {
     "TG_BOT_TOKEN": {
